@@ -3,3 +3,5 @@ emoji
 typing option 
 colors
 audio call
+dark mode 
+video calling
