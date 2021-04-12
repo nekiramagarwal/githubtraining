@@ -5,3 +5,6 @@ colors
 audio call
 dark mode 
 video calling
+payment option
+send money
+receive money
